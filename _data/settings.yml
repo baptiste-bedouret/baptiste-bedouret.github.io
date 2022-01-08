@@ -6,7 +6,6 @@ menu:
 - {name: 'À propos',    url: 'about'}
 - {name: 'Mon CV',    url: 'file:///home/baptiste/T%C3%A9l%C3%A9chargements/BaptisteCVLatex.pdf'}
 - {name: 'Blog',     url: 'blog'}
-- {name: 'Contact',  url: 'contact'}
 
 #-------------------------------
 # Projects Section
@@ -23,6 +22,7 @@ social:
 - {icon: 'github',    link: 'https://github.com/baptiste-bedouret'}
 - {icon: 'linkedin',  link: 'https://www.linkedin.com/in/baptiste-bedouret/'}
 - {icon: 'envelope',  link: 'mailto:mailto:b.bedouret@gmail.com'}
+- {icon: 'phone',  link: 'tel:+33783357995'}
 
 # social network icons available:  / 'github' / 'linkedin' /
 
