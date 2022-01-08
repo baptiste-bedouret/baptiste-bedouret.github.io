@@ -3,16 +3,16 @@
 
 menu:
 - {name: 'Projets', url: ''}
-- {name: 'Blog',     url: 'blog'}
 - {name: 'À propos',    url: 'about'}
+- {name: 'Blog',     url: 'blog'}
 - {name: 'Contact',  url: 'contact'}
 
 #-------------------------------
 # Projects Section
 
 projects:
-- {name: 'Project One',   url: 'proj-1'}
-- {name: 'Project Two',   url: 'proj-2'}
+- {name: 'Projet 1',   url: 'proj-1'}
+- {name: 'Projet 2',   url: 'proj-2'}
 
 
 #-------------------------------
