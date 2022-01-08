@@ -4,7 +4,7 @@
 menu:
 - {name: 'Projets', url: ''}
 - {name: 'À propos',    url: 'about'}
-- {name: 'Mon CV',    url: 'file:///home/baptiste/T%C3%A9l%C3%A9chargements/BaptisteCVLatex.pdf'}
+- {name: 'Mon CV',    link: 'file:///home/baptiste/T%C3%A9l%C3%A9chargements/BaptisteCVLatex.pdf'}
 - {name: 'Blog',     url: 'blog'}
 - {name: 'Contact',  url: 'contact'}
 
