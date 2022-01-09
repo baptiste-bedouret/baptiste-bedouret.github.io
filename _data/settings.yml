@@ -4,7 +4,7 @@
 menu:
 - {name: 'Projets', url: ''}
 - {name: 'À propos',    url: 'about'}
-- {name: 'Mon CV',    url: 'BaptisteCVLatex.pdf'}
+- {name: 'Mon CV',    url: 'pages'}
 - {name: 'Blog',     url: 'blog'}
 
 #-------------------------------
