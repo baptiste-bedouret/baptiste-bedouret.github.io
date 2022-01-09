@@ -4,7 +4,7 @@
 menu:
 - {name: 'Projets', url: ''}
 - {name: 'À propos',    url: 'about'}
-- {name: 'Mon CV',    url: 'monCV'}
+- {name: 'Mon CV',    url: '_post'}
 - {name: 'Blog',     url: 'blog'}
 
 #-------------------------------
