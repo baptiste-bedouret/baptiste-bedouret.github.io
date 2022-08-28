@@ -13,6 +13,8 @@ menu:
 projects:
 - {name: 'Projet 1',   url: 'proj-1'}
 - {name: 'Projet 2',   url: 'proj-2'}
+- {name: 'Projet 3',   url: 'proj-3'}
+- {name: 'Projet 3',   url: 'proj-4'}
 
 
 #-------------------------------
