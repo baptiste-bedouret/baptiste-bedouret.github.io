@@ -7,6 +7,3 @@ Le but du projet est de tester différents algorithmes de machine learning sur l
 
 
 {% include image.html url="https://gist.github.com/baptiste-bedouret/65d7d8e0bddab530169901960b0da13c" image="projects/proj-1/machinelearning.png" %}
-
-
-![Custom badge](https://img.shields.io/aur/last-modified/https://gist.github.com/baptiste-bedouret/65d7d8e0bddab530169901960b0da13c)
