@@ -8,7 +8,7 @@ permalink: /about
 
 # Mon profil 💻
 
-Je m'appelle Baptiste Bédouret j'ai 21 ans et je suis étudiant en Master 1 Informatique parcours Image et son.
+Je m'appelle Baptiste Bédouret j'ai 21 ans et je suis étudiant en Master 2 Informatique parcours Image et son.
 
 Je suis passionné d'informatique et de Mathématiques et plus particulièrement d'intelligence artificielle.
 
