@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Projet 1'
+title: 'Projet 1: Machine learning sur fashion mnist'
 ---
 
 Le but du projet est de tester différents algorithmes de machine learning sur le corpus fashion mnist qui contient 60000 images de 28*28 pixels en niveau de gris tel que chaque image représente un habit. Il faut de plus étudier les différentes techniques de réduction de dimension sur la faisabilité, l’efficacité et la complexité de la classification.
