@@ -13,3 +13,6 @@ L'objectif de cette UE est de savoir comment produire une image (= tableau de pi
 -Introduction à l'animation
  etc.
 J'ai utilisé OpenGl et le code est en c++.
+
+
+{% include image.html url="https://github.com/aleb33/RSA_premier_aleatoire" image="projects/proj-6/opengl.png" %}
