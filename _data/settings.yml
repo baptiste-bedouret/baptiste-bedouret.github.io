@@ -16,6 +16,7 @@ projects:
 - {name: 'Projet 3',   url: 'proj-3'}
 - {name: 'Projet 4',   url: 'proj-4'}
 - {name: 'Projet 5',   url: 'proj-5'}
+- {name: 'Projet 6',   url: 'proj-6'}
 
 
 #-------------------------------
