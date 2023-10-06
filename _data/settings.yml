@@ -17,7 +17,8 @@ projects:
 - {name: 'Projet 4',   url: 'proj-4'}
 - {name: 'Projet 5',   url: 'proj-5'}
 - {name: 'Projet 6',   url: 'proj-6'}
-
+- {name: 'Projet 7',   url: 'proj-7'}
+- {name: 'Projet 8',   url: 'proj-8'}
 
 #-------------------------------
 # Contact Section
