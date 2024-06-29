@@ -8,7 +8,7 @@ permalink: /about
 
 # Mon profil 💻
 
-Je m'appelle Baptiste Bédouret j'ai 22 ans et je suis étudiant en Master for Smart Data Science à l'ENSAI. 
+Je m'appelle Baptiste Bédouret j'ai 23 ans et je suis étudiant en Master for Smart Data Science à l'ENSAI. 
 
 Je suis passionné d'informatique, de mathématiques et plus particulièrement d'intelligence artificielle.
 
